@@ -4,7 +4,7 @@
 
 ## **Sobre** ✔
 
-Este projeto é um desafio prático, proposto pela **Dio** para encerrar o módulo do curso de **Introdução ao Git e ao GitHub**.
+Este projeto é um desafio prático, que a **Dio** propôs para encerrar o Módulo I, que contém o curso de **Introdução ao Git e ao GitHub** e faz parte do **Bootcamp Spread Fullstack Developer**.
 
 Através do curso obtive o meu primeiro contato com o Git e também com o GitHub.
 
